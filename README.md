@@ -1,16 +1,19 @@
-## Hi there 👋
+<div id="toc">
+  <ul align="center" style="list-style: none">
+    <summary>
+      <h1>Hi, This is kiboure 👋 </h1>
+    </summary>
+  </ul>
+</div>
 
-<!--
-**kiboure/kiboure** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🐍 Software Developer specializing in Python and backend technologies.  
+- 🌐 Seeking opportunities to gain new experience and grow.  
+- 💡 Passionate about unusual projects!  
+- 💻 Linux hobbyist ;)
 
-Here are some ideas to get you started:
+**<h3 align="left">Currently i am:</h3>** 
+- 💻 **Learning:** C language  
+- 💼 **Working on:** New API Project using GraphQL
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**<h3 align="left">Connect with me:</h3>** 
+- <a href="https://www.linkedin.com/in/kiboure" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white" height="24" style="margin-right: 4px"></a>
