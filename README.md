@@ -9,7 +9,7 @@
 - 🐍 Software Developer specializing in Python and backend technologies.  
 - 🌐 Seeking opportunities to gain new experience and grow.  
 - 💡 Passionate about unusual projects!  
-- 💻 Linux hobbyist.
+- 💻 Linux hobbyist and tinkerer.
 
 **<h3 align="left">Currently i am:</h3>** 
 - 🔎 **Learning:** C language  
