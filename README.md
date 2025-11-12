@@ -6,10 +6,9 @@
   </ul>
 </div>
 
-- 🛠️ Software Developer specializing in Python and backend technologies.  
-- 🌐 Seeking opportunities to gain new experience and grow.  
-- 💡 Passionate about unusual projects!  
-- 🐧 Linux tinkerer.
+- 🛠️ Software Developer specializing in Python and backend technologies
+- 💡 Passionate about unusual projects
+- 🐧 Linux tinkerer
 
 <!---
 I dont want if i want it there but okay...
