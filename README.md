@@ -7,7 +7,7 @@
 </div>
 
 - 🛠️ Software Developer specializing in Python and backend technologies
-- 💡 Passionate about unusual projects
+- 💡 Passionate about unusual projects and learning new things
 - 🐧 Linux tinkerer
 
 <!---
