@@ -10,12 +10,5 @@
 - 💡 Passionate about unusual projects and learning new things
 - 🐧 Linux tinkerer
 
-<!---
-I dont want if i want it there but okay...
--->
-**<h3 align="left">Currently i am:</h3>** 
-- 🔎 **Learning:** C language, FastAPI  
-- 💼 **Working on:** FastAPI sketch project with GraphQL
-
 **<h3 align="left">Connect with me:</h3>** 
 <a href="https://www.linkedin.com/in/kiboure" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white" height="24" style="margin-right: 4px"></a>
